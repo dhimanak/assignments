@@ -34,7 +34,7 @@ Guidelines for the project:
  * At least 4 pages (max 10 pages) in 2 column ACM conference style in latex (I will share a template may be on overleaf)
  * Writing should be high quality technical writing not copy pasting 
  * Describe the task, dataset, methods you use and discuss their limitations you saw in the experiments
- * Very important: Document who did what
+ * Very important: Document who did what and justify you did equal share of the tasks
 * Presentation
  * 5-10 minutes presentation per team
  * Discuss the problem, data, interesting findings etc
