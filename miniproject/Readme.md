@@ -1,4 +1,4 @@
-Guidelines for the project:
+## Guidelines for the project:
 
 * Decide the topic (by now it should be done)
 * Check if know the task clearly, 
