@@ -20,4 +20,21 @@ Guidelines for the project:
 * Decide which data mining algorithm is suitable?
   * Possibly several
   * Try a few algorithms you are free to use sklearn or whatever library you prefer
-  
+  * Possibly ensemble techniques like random forest or adaboost work better
+  * Possibly a new method, or novel set of features for the same methods
+* Experiments 
+ * paramter tuning (learning rate, number of clusters etc)
+ * compare all the approaches
+ * document the limitations of all the approaches you try
+ * Choose the best performing method and do more detailed analysis
+ * evaluation measures
+  * Precision, Recall, F1, ROC curve
+  * Statistical significance test
+* Report
+ * At least 4 pages (max 10 pages) in 2 column ACM conference style in latex (I will share a template may be on overleaf)
+ * Writing should be high quality technical writing not copy pasting 
+ * Describe the task, dataset, methods you use and discuss their limitations you saw in the experiments
+ * Very important: Document who did what
+* Presentation
+ * 5-10 minutes presentation per team
+ * Discuss the problem, data, interesting findings etc
