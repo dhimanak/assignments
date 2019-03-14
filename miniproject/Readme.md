@@ -23,18 +23,18 @@
   * Possibly ensemble techniques like random forest or adaboost work better
   * Possibly a new method, or novel set of features for the same methods
 * Experiments 
- * paramter tuning (learning rate, number of clusters etc)
- * compare all the approaches
- * document the limitations of all the approaches you try
- * Choose the best performing method and do more detailed analysis
- * evaluation measures
+  * paramter tuning (learning rate, number of clusters etc)
+  * compare all the approaches
+  * document the limitations of all the approaches you try
+  * Choose the best performing method and do more detailed analysis
+  * evaluation measures
   * Precision, Recall, F1, ROC curve
   * Statistical significance test
 * Report
- * At least 4 pages (max 10 pages) in 2 column ACM conference style in latex (I will share a template may be on overleaf)
- * Writing should be high quality technical writing not copy pasting 
- * Describe the task, dataset, methods you use and discuss their limitations you saw in the experiments
- * Very important: Document who did what and justify you did equal share of the tasks
+  * At least 4 pages (max 10 pages) in 2 column ACM conference style in latex (I will share a template may be on overleaf)
+  * Writing should be high quality technical writing not copy pasting (Refer this book for tips on good writing [book](https://pingpong.chalmers.se/public/pp/public_courses/course08583/published/1510227352918/resourceId/4156227/content/Zobel%20-%20Writing%20for%20computer%20science%203rd%20edition.pdf))
+  * Describe the task, dataset, methods you use and discuss their limitations you saw in the experiments
+  * Very important: Document who did what and justify you did equal share of the tasks
 * Presentation
- * 5-10 minutes presentation per team
- * Discuss the problem, data, interesting findings etc
+  * 5-10 minutes presentation per team
+  * Discuss the problem, data, interesting findings etc
