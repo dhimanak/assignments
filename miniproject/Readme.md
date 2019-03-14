@@ -31,7 +31,7 @@
   * Precision, Recall, F1, ROC curve
   * Statistical significance test (see the examples [here](https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/))
 * Report
-  * At least 4 pages (max 10 pages) in 2 column ACM conference style in latex (Here is the link to the template on [overleaf](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ))
+  * At least 4 pages (max 10 pages) in 2 column ACM conference style in latex (Here is the link to the template on [overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-new-master-template/pnrfvrrdbfwt))
   * Writing should be high quality technical writing not copy pasting (Refer this [book](https://pingpong.chalmers.se/public/pp/public_courses/course08583/published/1510227352918/resourceId/4156227/content/Zobel%20-%20Writing%20for%20computer%20science%203rd%20edition.pdf) for tips on good writing )
   * Describe the task, dataset, methods you use and discuss their limitations you saw in the experiments
   * Very important: Document who did what and justify you did equal share of the tasks
