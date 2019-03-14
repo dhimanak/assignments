@@ -29,7 +29,7 @@
   * Choose the best performing method and do more detailed analysis
   * evaluation measures
   * Precision, Recall, F1, ROC curve
-  * Statistical significance test
+  * Statistical significance test (see the examples [here](https://machinelearningmastery.com/parametric-statistical-significance-tests-in-python/))
 * Report
   * At least 4 pages (max 10 pages) in 2 column ACM conference style in latex (I will share a template may be on overleaf)
   * Writing should be high quality technical writing not copy pasting (Refer this [book](https://pingpong.chalmers.se/public/pp/public_courses/course08583/published/1510227352918/resourceId/4156227/content/Zobel%20-%20Writing%20for%20computer%20science%203rd%20edition.pdf) for tips on good writing )
