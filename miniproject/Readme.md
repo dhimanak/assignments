@@ -15,7 +15,7 @@
 * Cleanup, Explore the data
   * Remove noise if any
   * Check for outliers
-  * visualize
+  * Normalize, feature scaling, binarize see what is necessary
   * apply SVD or PCA or TSNE to visuzalize
 * Decide which data mining algorithm is suitable?
   * Possibly several
